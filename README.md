@@ -11,7 +11,7 @@
 ├── requirements.txt        # Python 依赖库列表
 ├── import_data.py          # 数据导入脚本（自动建库 + 批量入库）
 ├── query_data.py           # 向量查询测试脚本
-├── data.json               # (需自行准备) 源数据文件
+├── data.json               #源数据文件
 └── weaviate_data/          # (启动后自动生成) 数据持久化目录
 ```
 
